@@ -2,56 +2,57 @@
 
 <p align="center">Repositório destinado as minhas resoluções das atividades propostas na disciplina de Shell Script do 3° Período do CST em Redes de computadores. Lecionada pelo Professor Thiago Gouveia da Silva</p>
 
-<h1 align="center">
-  <a href=https://github.com/ifpb/ShellScript> :penguin: Repositório da Disciplina</a>
-</h1>
+<h2 align="center"> :link: Links  </h2>
+  <a href=https://github.com/ifpb/ShellScript> - Repositório da Disciplina :penguin:</a>
 
-AGENDA
 
-Módulo 01 - Introducao e Conceitos Basicos
 
-Lista de Exercícios 01: 
+<h2 align="center"> :pencil: AGENDA :pencil:</h2> 
 
-Modulo 02 - Variaveis
+<h3 align="left">Módulo 01 - Introducao e Conceitos Basicos</h3>
 
-Lista de Exercícios 02:
+Lista de Exercícios 01:
 
-Modulo 03 - Aspas e Argumentos de linha de comando
+<h3 align="left">Modulo 02 - Variaveis</h3>
 
-Lista de Exercícios 03:
+Lista de Exercícios 02: 
 
-Modulo 04 - Datas e Substituição de Shell
+<h3 align="left">Modulo 03 - Aspas e Argumentos de linha de comando</h3>
 
-Lista de Exercícios 03:
+Lista de Exercícios 03: 
 
-Modulo 05 - Redirecionadores e Conectores
+<h3 align="left">Modulo 04 - Datas e Substituição de Shell</h3>
 
-Lista de Exercícios 04
+Lista de Exercícios 03: 
 
-Modulo 06 - Aritmetica no Shell
+<h3 align="left">Modulo 05 - Redirecionadores e Conectores</h3>
 
-Lista de Exercícios 06:
+Lista de Exercícios 04: 
 
-Modulo 07 - Teste de Condições
+<h3 align="left">Modulo 06 - Aritmetica no Shell</h3>
 
-Lista de Exercicios 07:
+Lista de Exercícios 06: 
 
-Modulo 08 - Estruturas Condicionais
+<h3 align="left">Modulo 07 - Teste de Condições</h3>
+
+Lista de Exercicios 07: 
+
+<h3 align="left">Modulo 08 - Estruturas Condicionais</h3>
 
 Lista de Exercícios 08
 
-Modulo 09 - Estruturas de Repetição
+<h3 align="left">Modulo 09 - Estruturas de Repetição</h3>
 
 Lista de Exercícios 09
 
-Modulo 10 - Funções e Modularização
+<h3 align="left">Modulo 10 - Funções e Modularização</h3>
 
 Lista de Exercícios 10:
 
-Modulo 11 - Arrays e Strings
+<h3 align="left">Modulo 11 - Arrays e Strings</h3>
 
 Lista de Exercicios 11:
 
-Modulo 12 - Mini Projeto 1
+<h3 align="left">Modulo 12 - Mini Projeto 1</h3>
 
 Projeto:
