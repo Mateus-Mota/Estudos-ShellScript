@@ -17,46 +17,46 @@
 
 Lista de Exercícios 01: :x:
 
-<h3 align="left">Modulo 02 - Variaveis</h3>
+<h3 align="left">Módulo 02 - Variaveis</h3>
 
 Lista de Exercícios 02: :x:
 
-<h3 align="left">Modulo 03 - Aspas e Argumentos de linha de comando</h3>
+<h3 align="left">Módulo 03 - Aspas e Argumentos de linha de comando</h3>
 
 Lista de Exercícios 03: :x:
 
-<h3 align="left">Modulo 04 - Datas e Substituição de Shell</h3>
+<h3 align="left">Módulo 04 - Datas e Substituição de Shell</h3>
 
 Lista de Exercícios 04: 
 
-<h3 align="left">Modulo 05 - Redirecionadores e Conectores</h3>
+<h3 align="left">Módulo 05 - Redirecionadores e Conectores</h3>
 
 Lista de Exercícios 05: :x:
 
-<h3 align="left">Modulo 06 - Aritmetica no Shell</h3>
+<h3 align="left">Módulo 06 - Aritmetica no Shell</h3>
 
 Lista de Exercícios 06: :x:
 
-<h3 align="left">Modulo 07 - Teste de Condições</h3>
+<h3 align="left">Módulo 07 - Teste de Condições</h3>
 
 Lista de Exercicios 07: :x:
 
-<h3 align="left">Modulo 08 - Estruturas Condicionais</h3>
+<h3 align="left">Módulo 08 - Estruturas Condicionais</h3>
 
 Lista de Exercícios 08: :x:
 
-<h3 align="left">Modulo 09 - Estruturas de Repetição</h3>
+<h3 align="left">Módulo 09 - Estruturas de Repetição</h3>
 
 Lista de Exercícios 09: :x:
 
-<h3 align="left">Modulo 10 - Funções e Modularização</h3>
+<h3 align="left">Módulo 10 - Funções e Modularização</h3>
 
 Lista de Exercícios 10: :x:
 
-<h3 align="left">Modulo 11 - Arrays e Strings</h3>
+<h3 align="left">Módulo 11 - Arrays e Strings</h3>
 
 Lista de Exercicios 11: :x:
 
-<h3 align="left">Modulo 12 - Mini Projeto 1</h3>
+<h3 align="left">Módulo 12 - Mini Projeto 1</h3>
 
 Projeto: :x:
