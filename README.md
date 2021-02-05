@@ -1,8 +1,10 @@
-# ExerciciosShellScript
+<h1 align="center">ExerciciosShellScript</h1>
 
-Repositório destinado as minhas resoluções das atividades propostas na disciplina de Shell Script do 3° Período do CST em Redes de computadores. Lecionada pelo Professor Thiago Gouveia da Silva
+<p align="center">Repositório destinado as minhas resoluções das atividades propostas na disciplina de Shell Script do 3° Período do CST em Redes de computadores. Lecionada pelo Professor Thiago Gouveia da Silva</p>
 
-Repositório da Disciplina: https://github.com/ifpb/ShellScript
+<h1 align="center">
+  <a href=https://github.com/ifpb/ShellScript> :penguin: Repositório da Disciplina</a>
+</h1>
 
 AGENDA
 
