@@ -23,3 +23,7 @@ Lista de Exercícios 08
 Lista de Exercícios 09 
 
 Lista de Exercícios 10
+
+Lista de Exercicios 11
+
+Lista de Exercicios 12
