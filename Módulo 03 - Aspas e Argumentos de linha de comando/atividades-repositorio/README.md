@@ -21,3 +21,22 @@ echo "o valor de "'$b'" é $b"
 <p>Melhore o script para que imprima 2 argumentos por linha, separados por uma tabulação.</p>
 
 <p>Melhore o script para que imprima, antes de cada argumento, o nome da variável correspondente no shell (com $).</p>
+
+<h2>Exercício 03</h2>
+<p>Considere o script teste.sh descrito abaixo.</p>
+
+#!/bin/bash
+
+a="$*"
+b='$*'
+c="$#"
+
+echo '$a'
+echo '$b'
+echo '$c'
+
+echo "$a"
+echo "$b"
+echo "$c"
+</p>O que é impresso na tela após a execução do script teste.sh da seguinte forma:</br>
+./teste.sh arg1 arg2 arg3 arg4</p>
