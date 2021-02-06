@@ -28,7 +28,7 @@ echo $13
 
 <p>O que é impresso na tela após a execução do script teste.sh da seguinte forma:</br>
 ./teste.sh a1 a2 a3 a4 "a5 a5" a6 a7 a8 'a9 a9' a10 a11 a12 a13</p>
-<p>Como corrigir o script para que os argumentos de linha de comando 12 e 13 sejam exibidos corretamente?</p>>
+<p>Como corrigir o script para que os argumentos de linha de comando 12 e 13 sejam exibidos corretamente?</p>
 
 <h2>Exercício 04</h2>
 <p>Considere o script teste.sh descrito abaixo.</p>
