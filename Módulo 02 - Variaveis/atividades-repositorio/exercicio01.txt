@@ -1,0 +1,8 @@
+O resultado do script será: 10201020
+
+Explicação
+Na primeira linha é criada a variável a e é armazenado nela o valor 10.
+Na segunda linha é criada a variável b e é armazenado nele o valor 20.
+Na terceira linha é criado a variável c e é armazenado nele os valores das variáveis a e b concatenadas.
+Na quarta linha é criada a variável d e é armazenado nele os valores das variáveis a, b e c concatenadas.
+Na quinta linha é utilizado o comando echo para mostrar na tela o valor da variável d.
