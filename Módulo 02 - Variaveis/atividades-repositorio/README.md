@@ -1,6 +1,7 @@
 <h2>Exercício 01</h2>
 <p>O que é impresso na tela após a execução do seguinte script?</p>
 
+~~~Bash
 #!/bin/bash
 
 a=10
@@ -9,7 +10,7 @@ c=$a$b
 d=$a$b$c
 echo ${d}
 <p>Explique a execução de cada linha do script.</p>
-
+~~~
 
 <h2>Exercício 02</h2>
 <p>Escreva um script shell que leia 3 nomes e 3 telefones e imprima-os na tela.</p>
@@ -41,6 +42,7 @@ a="Brasil"
 aa="Brasileiro"
 aaa="Brasileirissimo"
 aaaa="Brasileirissimozinho"
+~~~
 
 ~~~Bash
 echo $a
@@ -48,6 +50,7 @@ echo $aa
 echo $aaa
 echo $aaaa
 ~~~
+
 <p>O que é impresso na tela após a execução do script teste.sh?</p>
 
 <p>Como fazer para que, usando as variáveis 'a' e 'aa', o script imprima 'BrasilBrasileiro' (sem espaços) na tela?</p>
