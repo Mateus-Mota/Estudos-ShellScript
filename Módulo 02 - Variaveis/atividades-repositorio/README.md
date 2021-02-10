@@ -9,8 +9,9 @@ b=20
 c=$a$b
 d=$a$b$c
 echo ${d}
-<p>Explique a execução de cada linha do script.</p>
 ~~~
+
+<p>Explique a execução de cada linha do script.</p>
 
 <h2>Exercício 02</h2>
 <p>Escreva um script shell que leia 3 nomes e 3 telefones e imprima-os na tela.</p>
