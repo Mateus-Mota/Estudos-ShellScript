@@ -1,17 +1,17 @@
 <h1 align="center">ExerciciosShellScript</h1>
 <p align="center">
- <a href="#Objetivo">Objetivo</a> •
- <a href="#Links">Links</a> • 
- <a href="#Checklist">Checklist</a>
+ <a href="#Objetivo">:dart:Objetivo</a> •
+ <a href="#Links">:link:Links</a> • 
+ <a href="#Checklist">:white_check_mark:Checklist</a>
 </p>
 
-<h2 align="center"> :dart: Objetivo</h2>
+<h2>:dart: Objetivo</h2>
 <p align="center">Repositório destinado as minhas resoluções das atividades propostas na disciplina de Shell Script do 3° Período do CST em Redes de computadores. Lecionada pelo Professor Thiago Gouveia da Silva</p>
 
-<h2 align="center"> :link: Links</h2>
+<h2>:link: Links</h2>
   <a href=https://github.com/ifpb/ShellScript> Repositório da Disciplina :penguin:</a>
 
-<h2 align="center"> :white_check_mark: Checklist</h2> 
+<h2>:white_check_mark: Checklist</h2> 
 
 <h3 align="left">Módulo 01 - Introducao e Conceitos Basicos</h3>
 
