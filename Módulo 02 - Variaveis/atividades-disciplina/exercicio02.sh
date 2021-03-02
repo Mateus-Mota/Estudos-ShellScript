@@ -1,3 +1,9 @@
 #!/bin/bash
 
-#Escreva um script que pergunte ao usuário o caminho e liste todos os caminhos desses três diretórios.
+read -p "Diretório 1: " dir1
+read -p "Diretório 2: " dir2
+read -p "Diretório 3: " dir3
+
+ls ${dir1}
+ls ${dir2}
+ls ${dir3}
