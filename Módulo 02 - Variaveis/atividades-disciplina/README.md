@@ -1,1 +1,9 @@
-#TESTE
+
+<h1> P.S. 2020.2 Lista 02 - Primeiros passos com Bash </h1>
+
+<p> 1° - Escreva um script que imprima uma frase motivacional. </p>
+<p> 2° - Escreva um script que pergunte ao usuário o caminho de 3 diretórios e liste todos os arquivos destes 3 diretórios. </p>
+<p> 3° - Escreva um script que: crie um diretório /tmp/DATA onde DATA deve ser a data atual do sistema obtida a partir do comando date (no formato ano-mes-dia) e copie todos os arquivos do diretório atual para este novo diretório. </p>
+</p> Ex.: /tmp/2021-02-24 </p>
+<p> 4° - Melhore o script anterior para que este compacte o novo diretório criado, removendo este diretório após a sua compactação. (o arquivo compactado deve ser copiado para o diretório inicial, o diretório atual, no caso). </p>
+<p> 5° - Escreva um script que imprime na tela os conceitos de substituição de variáveis e de substituição de shell, com exemplos. </p>
