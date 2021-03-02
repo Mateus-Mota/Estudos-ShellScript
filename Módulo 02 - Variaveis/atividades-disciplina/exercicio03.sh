@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DATA=$(date +%d-%m-%Y)
+DATA=$(date +%Y-%m-%d)
 
 mkdir /tmp/${DATA}
 cp -r ./ /tmp/${DATA}
