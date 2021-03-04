@@ -23,20 +23,20 @@
 Supondo que os arquivos a.txt, b.txt e c.txt possuam o seguinte conteúdo:
 
 #a.txt:
-1
-2
-3
+<p>1</p>
+<p>2</p>
+<p>3</p>
 
 #b.txt:
-0
-0
-0
-0
-0
-0
+<p>0</p>
+<p>0</p>
+<p>0</p>
+<p>0</p>
+<p>0</p>
+<p>0</p>
 
 #c.txt:
-a
-b
-c
-d
+<p>a</p>
+<p>b</p>
+<p>c</p>
+<p>d</p>
