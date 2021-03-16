@@ -8,4 +8,4 @@ echo "'&>' Sobrescreve o arquivo com todas as saidas do comando anterior"
 echo "'&>>' Adiciona a todas as saidas do comando anterior no final do arquivo"
 echo "'<' Redireciona o arquivo para a entrada padrão do comando"
 echo "'<<' Redireciona a entrada padrão do comando para o documento escrito no bash"
-echo "'<<<' Redireciona a entrada padrão do comando para a string escrita no bash"
+echo "'<<<' Redireciona a entrada padrão do comando para a string escrita no bash" echo
