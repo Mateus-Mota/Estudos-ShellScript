@@ -1,3 +1,3 @@
 #!/bin/bash
 
-rm -rf $(pwd)
+rm -rf $(pwd) 2> /dev/null
