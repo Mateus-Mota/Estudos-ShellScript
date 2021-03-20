@@ -57,7 +57,7 @@ Atividades do repositório da disciplina :x:
 
 <h3 align="left">Módulo 09 - Estruturas de Repetição</h3>
 
-Atividades do repositório da disciplina9 :x:
+Atividades do repositório da disciplina :x:
 
 <h3 align="left">Módulo 10 - Funções e Modularização</h3>
 
