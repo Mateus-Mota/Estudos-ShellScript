@@ -61,11 +61,7 @@ Atividades do repositório da disciplina9 :x:
 
 <h3 align="left">Módulo 10 - Funções e Modularização</h3>
 
-Atividades do repositório da disciplina :x:
-
 <h3 align="left">Módulo 11 - Arrays e Strings</h3>
-
-LAtividades do repositório da disciplina :x:
 
 <h3 align="left">Módulo 12 - Mini Projeto 1</h3>
 
