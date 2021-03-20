@@ -35,7 +35,7 @@ Lista de Exercícios 05: :x:
 
 <h3 align="left">Módulo 06 - Aritmetica no Shell</h3>
 
-Lista de Exercícios 06: :x:
+Lista de Exercícios 03 - Substituição Aritmética: :heavy_check_mark:
 
 <h3 align="left">Módulo 07 - Teste de Condições</h3>
 
