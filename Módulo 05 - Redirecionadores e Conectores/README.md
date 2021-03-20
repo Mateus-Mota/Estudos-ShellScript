@@ -1,22 +1,30 @@
 # Exercício 01
+
 O que é impresso na tela após a execução do seguinte script?
 
-~~~bash
+```bash
 #!/bin/bash
 
 a="$(pwd)"
-b="$(ls ${a})"
 
-echo $a
-echo $b
-~~~
+echo $a > teste
+echo $a >> teste
+
+cat teste
+```
 
 # Exercício 02
-Escreva um script shell que peça para o usuário digitar um dia, um mês e um ano e imprima o dia da semana correspondente.
 
-Melhore o script para que receba dia, mês e ano como argumentos de linha de comando.
+O que é impresso na tela após a execução do seguinte script?
 
-Melhore o script para que receba duas datas como argumentos de linha de comando: argumentos de 1 a 3 representam dia, mês e ano da data um, e os argumentos 4, 5 e 6 representam dia, mês e ano da data 2.
+```bash
+#!/bin/bash
+
+cat $1 | grep $2 &> /dev/null && echo "OK"
+cat $1 | grep $2 &> /dev/null || echo "Not OK"
+
+exit 0
+```
   
 # Exercício 03
 
