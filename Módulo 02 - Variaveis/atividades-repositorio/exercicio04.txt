@@ -1,8 +1,0 @@
-Saída do script:
-Brasil
-Brasileiro
-Brasileirissimo
-Braisleirossimozinho
-
-Podemos adicionar aspas sem caracteres os mesmos.
-Podemos adicionar aspas com a entre os mesmos.
