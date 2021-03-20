@@ -15,11 +15,11 @@
 
 <h3 align="left">Módulo 01 - Introducao e Conceitos Basicos</h3>
 
-Lista de Exercícios 01: :x:
+Lista de Exercícios 01: :heavy_check_mark::
 
 <h3 align="left">Módulo 02 - Variaveis</h3>
 
-Lista de Exercícios 02: :x:
+Lista de Exercícios 02 - Primeiros passos com Bash: :heavy_check_mark:
 
 <h3 align="left">Módulo 03 - Aspas e Argumentos de linha de comando</h3>
 
