@@ -13,49 +13,59 @@
 
 <h2>:white_check_mark: Checklist</h2> 
 
+<h2> Listas de Atividades </h2>
+
+<h3> Lista 01 - Slide sobre Tipos de Shell :heavy_check_mark: </h3>
+<h3> Lista 02 - Primeiros Passos com o Bash :heavy_check_mark: </h3>
+<h3> Lista 03 - Substituição Aritmética :heavy_check_mark: </h3>
+<h3> Lista 04 - Redirecionadores :heavy_check_mark: </h3>
+<h3> Lista 05 - Operadores Condicionais :x: </h3>
+
+<h2> Módulos <h2>
+
 <h3 align="left">Módulo 01 - Introducao e Conceitos Basicos</h3>
 
-Lista de Exercícios 01: :heavy_check_mark::
+Atividades do repositório da disciplina :heavy_check_mark:
 
 <h3 align="left">Módulo 02 - Variaveis</h3>
 
-Lista de Exercícios 02 - Primeiros passos com Bash: :heavy_check_mark:
+Atividades do repositório da disciplina :heavy_check_mark:
 
 <h3 align="left">Módulo 03 - Aspas e Argumentos de linha de comando</h3>
 
-Lista de Exercícios 03: :x:
+Atividades do repositório da disciplina :x:
 
 <h3 align="left">Módulo 04 - Datas e Substituição de Shell</h3>
 
-Lista de Exercícios 04: 
+Atividades do repositório da disciplina :x:
 
 <h3 align="left">Módulo 05 - Redirecionadores e Conectores</h3>
 
-Lista de Exercícios 05: :x:
+Atividades do repositório da disciplina :x:
 
 <h3 align="left">Módulo 06 - Aritmetica no Shell</h3>
 
-Lista de Exercícios 03 - Substituição Aritmética: :heavy_check_mark:
+Atividades do repositório da disciplina :x:
 
 <h3 align="left">Módulo 07 - Teste de Condições</h3>
 
-Lista de Exercicios 07: :x:
+Atividades do repositório da disciplina :x:
 
 <h3 align="left">Módulo 08 - Estruturas Condicionais</h3>
 
-Lista de Exercícios 08: :x:
+Atividades do repositório da disciplina :x:
 
 <h3 align="left">Módulo 09 - Estruturas de Repetição</h3>
 
-Lista de Exercícios 09: :x:
+Atividades do repositório da disciplina9 :x:
 
 <h3 align="left">Módulo 10 - Funções e Modularização</h3>
 
-Lista de Exercícios 10: :x:
+Atividades do repositório da disciplina :x:
 
 <h3 align="left">Módulo 11 - Arrays e Strings</h3>
 
-Lista de Exercicios 11: :x:
+LAtividades do repositório da disciplina :x:
 
 <h3 align="left">Módulo 12 - Mini Projeto 1</h3>
 
