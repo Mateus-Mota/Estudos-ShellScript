@@ -21,7 +21,7 @@
 <h3> Lista 04 - Redirecionadores :heavy_check_mark: </h3>
 <h3> Lista 05 - Operadores Condicionais :x: </h3>
 
-<h2> Módulos <h2>
+<h2> Módulos </h2>
 
 <h3 align="left">Módulo 01 - Introducao e Conceitos Basicos</h3>
 
