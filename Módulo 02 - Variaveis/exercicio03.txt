@@ -1,0 +1,8 @@
+Resultado do Script:
+a1 a2 a3 a4 a5 a5 a6 a7 a8 a9 a9 a10 a11 a12 a13
+a1
+a5 a5
+a12
+a13
+
+Para que os argumentos a12 e a13 apareçam será necessário adicionar aspas no chamado de argumento para que ele seja tratado de forma literal.
