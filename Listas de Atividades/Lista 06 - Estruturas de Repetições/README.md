@@ -41,6 +41,24 @@ echo $total
 
 3 - Escreva um script que exiba o nome e número de linhas de cada um dos arquivos do diretório atual. Melhore o script para que os arquivos sejam exibidos em ordem decrescente em relação ao número de linhas. Melhore ainda mais o script para que receba o nome do diretório (de onde serão listados os nomes dos arquivos) seja lido como parâmetro de linha de comando.
 
+## Resolução
+~~~bash
+!/bin/bash
+wc -l *
+~~~
+
+## Resolução Melhora I
+~~~bash
+!/bin/bash
+
+~~~
+
+## Resolução Melhorada II
+~~~bash
+!/bin/bash
+
+~~~
+
 4 - Escreva um script que receba vários nomes de arquivo como parâmetros de linha de comando (o número de parâmetros pode variar de execução para execução) e imprima o nome de cada arquivo passado seguido de SIM, caso o arquivo exista, e de NAO caso contrário.
 
 ## Resolução
