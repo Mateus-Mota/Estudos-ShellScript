@@ -2,7 +2,42 @@
 
 1 - Escreva um script que imprima todos os números pares de 1 até 101. Melhore o script para que imprima todos os números pares entre a e b, sendo a o primeiro parâmetro de linha de comando, enquanto que b é o segundo.
 
+## Resolução Inicial.
+~~~bash
+#!/bin/bash
+
+for (( i=0; i<=101; i++ )) do
+	if (( ${i} % 2 == 0 && ${i} != 0 ));then
+		echo  "${i}"
+	fi
+done
+~~~
+
+## Resolução Melhorada.
+~~~bash
+#!/bin/bash
+
+for (( i=$1; i<=$2; i++ )) do
+	if (( ${i} % 2 == 0 && ${i} != 0 ));then
+		echo  "${i}"
+	fi
+done   
+~~~
+
 2 - Escreva um script que peça para o usuário digitar dois números, a e b, e calcule (e exiba na tela) a soma de todos os números de a até b.
+
+## Resolução
+~~~bash
+#!/bin/bash
+
+read -p "Valor A: " a
+read -p "Valor B: " b
+total=0
+for (( i=$a; i<=$b; i++)) do
+	total=$(( ${total} + ${i} ))
+done
+echo $total
+~~~
 
 3 - Escreva um script que exiba o nome e número de linhas de cada um dos arquivos do diretório atual. Melhore o script para que os arquivos sejam exibidos em ordem decrescente em relação ao número de linhas. Melhore ainda mais o script para que receba o nome do diretório (de onde serão listados os nomes dos arquivos) seja lido como parâmetro de linha de comando.
 
