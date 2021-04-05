@@ -56,7 +56,7 @@ wc -l * > total_linhas.txt && cat total_linhas.txt | sort -gr
 ## Resolução Melhorada II
 ~~~bash
 !/bin/bash
-
+wc -l $1* > total_linhas.txt && cat total_linhas.txt | sort -gr
 ~~~
 
 4 - Escreva um script que receba vários nomes de arquivo como parâmetros de linha de comando (o número de parâmetros pode variar de execução para execução) e imprima o nome de cada arquivo passado seguido de SIM, caso o arquivo exista, e de NAO caso contrário.
