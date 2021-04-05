@@ -1,42 +1,70 @@
-<h1>P.S. 2020.2 Lista 03 - Substituição Aritmética</h1>
+# P.S. 2020.2 Lista 03 - Substituição Aritmética
 
-<p>1 - Escreva um script que peça para o usuário digitar um número inteiro. Armazene este número da variável x. Faça a variável x receber o valor x + 21. Imprima na tela o valor de x.</p>
+## 1 - Escreva um script que peça para o usuário digitar um número inteiro. Armazene este número da variável x. Faça a variável x receber o valor x + 21. Imprima na tela o valor de x.
 
-</br>
-<p>2 - Escreva um script que soma 3 números passados como argumentos de linha de comando. Por exemplo:<p>
+### Resolução
+~~~bash
+#!/bin/bash
 
-<p>$ ./a.sh 10 20 30</br>
-> 60</p>
+read -p "Valor: " valor
 
-</br>
-<p> 3 - Escreva um script que receba dois argumentos passados pela linha de comando, digamos a e b, e imprima o valor da expressão (a+10)b - 5. Por exemplo:</p>
+novovalor=$((${valor}+21))
+echo ${novovalor}
+~~~
 
-<p>$ ./b.sh 0 2</br>
->95</p>
+## 2 - Escreva um script que soma 3 números passados como argumentos de linha de comando. Por exemplo:
 
-</br>
-<p>4 - Escreva um script que recebe 3 nomes de arquivo como parâmetros de linha de comando e imprime a soma dos números de linhas dos 3 arquivos. Utilize a substituição de shell e o comando wc -l para contar o número de linhas de cada arquivo. Por exemplo:</p>
+### $ ./a.sh 10 20 30
+### > 60
 
-<p>$ ./c.sh a.txt b.txt c.txt</br>
-> 13</p>
+### Resolução
+~~~bash
+#!/bin/bash
 
-Supondo que os arquivos a.txt, b.txt e c.txt possuam o seguinte conteúdo:
+echo "$(($1 + $2 + $3))"
+~~~
 
-#a.txt:
-<p>1</p>
-<p>2</p>
-<p>3</p>
+## 3 - Escreva um script que receba dois argumentos passados pela linha de comando, digamos a e b, e imprima o valor da expressão (a+10)b - 5. Por exemplo:
 
-#b.txt:
-<p>0</p>
-<p>0</p>
-<p>0</p>
-<p>0</p>
-<p>0</p>
-<p>0</p>
+### $ ./b.sh 0 2
+### >95
 
-#c.txt:
-<p>a</p>
-<p>b</p>
-<p>c</p>
-<p>d</p>
+### Resolução
+~~~bash
+#!/bin/bash
+
+echo "$(( ( ($1 + 10) * $2 ) - 5 ))"
+~~~
+
+## 4 - Escreva um script que recebe 3 nomes de arquivo como parâmetros de linha de comando e imprime a soma dos números de linhas dos 3 arquivos. Utilize a substituição de shell e o comando wc -l para contar o número de linhas de cada arquivo. Por exemplo: 
+
+### $ ./c.sh a.txt b.txt c.txt
+### > 13
+
+### Supondo que os arquivos a.txt, b.txt e c.txt possuam o seguinte conteúdo:
+
+#### #a.txt:
+#### 1
+#### 2
+#### 3
+
+#### #b.txt:
+#### 0
+#### 0
+#### 0
+#### 0
+#### 0
+#### 0
+
+#### #c.txt:
+#### a
+#### b
+#### c
+#### d
+
+### Resolução
+~~~bash
+#!/bin/bash
+
+wc -l $1 $2 $3 | tail -n1 | cut -d "t" -f 1 
+~~~
