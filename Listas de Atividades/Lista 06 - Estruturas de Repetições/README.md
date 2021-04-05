@@ -50,7 +50,7 @@ wc -l *
 ## Resolução Melhorada I
 ~~~bash
 !/bin/bash
-
+wc -l * > total_linhas.txt && cat total_linhas.txt | sort -gr
 ~~~
 
 ## Resolução Melhorada II
