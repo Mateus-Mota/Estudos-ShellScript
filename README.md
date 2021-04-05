@@ -33,11 +33,11 @@ Atividades do repositório da disciplina :heavy_check_mark:
 
 <h3 align="left">Módulo 03 - Aspas e Argumentos de linha de comando</h3>
 
-Atividades do repositório da disciplina :x:
+Atividades do repositório da disciplina :heavy_check_mark:
 
 <h3 align="left">Módulo 04 - Datas e Substituição de Shell</h3>
 
-Atividades do repositório da disciplina :x:
+Atividades do repositório da disciplina :heavy_check_mark:
 
 <h3 align="left">Módulo 05 - Redirecionadores e Conectores</h3>
 
