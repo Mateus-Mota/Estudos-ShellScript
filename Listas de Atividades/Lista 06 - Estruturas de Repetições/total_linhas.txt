@@ -1,10 +1,12 @@
-   7 exercicio01-melhorado.sh
-   7 exercicio01.sh
-  10 exercicio02.sh
-   3 exercicio03-melhorado01.sh
-   3 exercicio03-melhorado02.sh
-   3 exercicio03.sh
-   6 exercicio04.sh
-  46 README.md
-   8 total_linhas.txt
-  93 total
+       0 /home/mateus/Área de trabalho
+       0 /home/mateus/Documentos
+       0 /home/mateus/Downloads
+       0 /home/mateus/Imagens
+       0 /home/mateus/Modelos
+       0 /home/mateus/Música
+       0 /home/mateus/Público
+       0 /home/mateus/quast-5.0.2
+  117036 /home/mateus/quast-5.0.2.tar.gz
+       0 /home/mateus/Repositorios
+       0 /home/mateus/Vídeos
+  117036 total
