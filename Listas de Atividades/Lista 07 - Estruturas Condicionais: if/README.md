@@ -22,6 +22,10 @@ Se executar “echo $x” dentro do script teste.sh, este imprimirá 10. Sem o e
 
 ## 3 - Escreva um script que imprima a palavra DIRS e abaixo liste todos os diretórios da pasta atual. Em seguida imprima a palavra FILES e abaixo liste todos os arquivos da pasta atual. Por fim, imprima a palavra LINKS e abaixo liste todos os links simbólicos da pasta atual.
 
+### Resolução
+~~~bash
+~~~
+
 ## 4 - [CUIDADO!] Escreva um script que remova todos os arquivos que possuem permissão para execução no diretório atual (e nenhum outro.
 
 ### Resolução
