@@ -19,7 +19,8 @@
 <h3> Lista 02 - Primeiros Passos com o Bash :heavy_check_mark: </h3>
 <h3> Lista 03 - Substituição Aritmética :heavy_check_mark: </h3>
 <h3> Lista 04 - Redirecionadores :heavy_check_mark: </h3>
-<h3> Lista 05 - Operadores Condicionais :heavy_check_mark: </h3>
+<h3> Lista 06 - Estruturas de Repetição: laços For :heavy_check_mark: </h3>
+<h3> Lista 07 - Estruturas Condicionais: if :x: </h3>
 
 <h2> Módulos </h2>
 
