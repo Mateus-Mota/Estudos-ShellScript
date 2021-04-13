@@ -66,6 +66,29 @@ echo "$(( ${x} + ${y} + ${z} ))"
 
 ### Resolução
 ~~~bash
+#!/bin/bash
+
+echo  "## DIRS ##"
+
+for arq in $(ls); do
+	if [ -d "$arq" ]; then
+		echo $arq
+	fi
+done
+
+echo "## FILES ##"
+for arq in $(ls); do
+	if [ -e "$arq" ]; then
+		echo $arq
+	fi
+done
+
+echo "## LINKS ##"
+for arq in $(ls); do
+	if [ -h "$arq" ]; then
+		echo $arq
+	fi
+done
 ~~~
 
 ## 4 - [CUIDADO!] Escreva um script que remova todos os arquivos que possuem permissão para execução no diretório atual (e nenhum outro.
