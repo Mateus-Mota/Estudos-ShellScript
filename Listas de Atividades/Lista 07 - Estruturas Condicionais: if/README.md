@@ -42,6 +42,24 @@ Se executar “echo $x” dentro do script teste.sh, este imprimirá 10. Sem o e
 
 ### Resolução
 ~~~bash
+#!/bin/bash
+
+if [ -z "${x}" ]; then
+	read -p "Digite o valor de x: " x
+	export x
+fi
+
+if [ -z "${y}" ]; then
+	read -p "Digite o valor de y: " y
+	export y
+fi
+
+if [ -z "${z}"]; then
+	read -p "Digite o valor de z: " z
+	export z
+fi
+
+echo "$(( ${x} + ${y} + ${z} ))"
 ~~~
 
 ## 3 - Escreva um script que imprima a palavra DIRS e abaixo liste todos os diretórios da pasta atual. Em seguida imprima a palavra FILES e abaixo liste todos os arquivos da pasta atual. Por fim, imprima a palavra LINKS e abaixo liste todos os links simbólicos da pasta atual.
