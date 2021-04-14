@@ -21,7 +21,7 @@
 <h3> Lista 04 - Redirecionadores :heavy_check_mark: </h3>
 <h3> Lista 06 - Estruturas de Repetição: laços For :heavy_check_mark: </h3>
 <h3> Lista 07 - Estruturas Condicionais: if :heavy_check_mark: </h3>
-<h3> Lista 08 - Estruturas While e Case :x: </h3:
+<h3> Lista 08 - Estruturas While e Case :x: </h3>
 
 <h2> Módulos </h2>
 
