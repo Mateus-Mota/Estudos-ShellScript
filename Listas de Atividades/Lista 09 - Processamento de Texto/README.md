@@ -4,6 +4,20 @@
 
 ### Resolução
 ~~~bash
+#!/bin/bash
+
+arquivo=$1
+numero=$2
+counter=0
+
+while read line; do
+	
+	counter=$(($counter + 1 ))
+	if (( $counter == $numero )); then
+	echo -e "$line"
+	fi
+
+done < "$arquivo"
 ~~~
 
 ## 2 - Escreva um script que use o comando tr para remover linhas vazias de um arquivo, isto é, linhas que possuem apenas o enter (\n).
