@@ -36,6 +36,12 @@ fi
 
 ### Resolução
 ~~~bash
+#!/bin/bash
+
+read -p "Digite o nome do arquivo" arq
+read -p "Digite o novo nome do arquivo" novo_arq
+
+tr -s '\n' < $arq > $novo_arq
 ~~~
 
 ## 3 - Escreva um script que exiba um arquivo parte por parte (digamos 3 linhas em cada parte), esperando por um enter, até o fim do arquivo (parecido com o comando more).
