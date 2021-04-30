@@ -15,8 +15,37 @@ echo ${d}
 
 <h2>Exercício 02</h2>
 <p>Escreva um script shell que leia 3 nomes e 3 telefones e imprima-os na tela.</p>
+~~~bash
+#!/bin/bash
+
+read -p "Nome-1: " nome1
+read -p "Nome-2: " nome2
+read -p "Nome-3: " nome3
+
+read -p "Fone-1: " fone1
+read -p "Fone-2: " fone2
+read -p "Fone-3: " fone3
+
+echo "Nomes: 1 =${nome1}, 2 =${nome2}, 3 =${nome3}"
+echo "Fones: 1 =${fone1}, 2 =${fone2}, 3 =${fone3}"
+~~~
 
 <p>Melhore o script para que imprima primeiro os 3 telefones e depois os 3 nomes.</p>
+
+~~~bash
+#!/bin/bash
+
+read -p "Nome-1 = " nome1
+read -p "Nome-2 = " nome2
+read -p "Nome-3 = " nome3
+
+read -p "Fone-1 = " fone1
+read -p "Fone-2 = " fone2
+read -p "Fone-3 = " fone3
+
+echo "Fone-1 = ${fone1}, Fone-2 = ${fone2}, Fone-3 = ${fone3}"
+echo "Nome-1 = ${nome1}, Nome-2 = ${nome2}, Nome-3 = ${nome3}"
+~~~
 
 <h2>Exercício 03</h2>
 <p>Considere o script teste.sh descrito abaixo.</p>
