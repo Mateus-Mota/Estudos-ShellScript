@@ -12,7 +12,7 @@ echo ${d}
 
 ### Explique a execução de cada linha do script
 
-##Exercício 02 - Escreva um script shell que leia 3 nomes e 3 telefones e imprima-os na tela.
+## Exercício 02 - Escreva um script shell que leia 3 nomes e 3 telefones e imprima-os na tela.
 
 ### Resolução Inicial
 ~~~bash
