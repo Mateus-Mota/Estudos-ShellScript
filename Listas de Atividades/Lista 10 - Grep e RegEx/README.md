@@ -57,4 +57,7 @@ read -p "Senha: " senha && echo $senha | egrep '*[0-9]*[A-Z]*[a-z]*|*[0-9]*[a-z]
 
 ### Resolução
 ~~~bash
+#!/bin/bash
+
+read -p "email: " email && echo $email | grep "*@*" && echo "SIM" || echo "NÃO"
 ~~~
