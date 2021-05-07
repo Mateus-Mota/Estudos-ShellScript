@@ -5,7 +5,7 @@ if [ "$1" == "a" ]; then
 fi
 
 if [ "$1" == "b" ]; then
-	ls -l | grep "^" | cut -d ' ' -f 1 
+	ls -l | grep "^[a-z].*\x" | cut -d ' ' -f 10
 fi
 
 if [ "$1" == "c" ]; then
@@ -13,9 +13,9 @@ if [ "$1" == "c" ]; then
 fi
 
 if [ "$1" == "d" ]; then
-	ls | grep --color ""
+	ls -ls | grep "[-][>]" | cut -d ' ' -f 14 
 fi
 
 if [ "$1" == "e" ]; then
-	ls | grep --color ""
+	ls | grep ""
 fi
