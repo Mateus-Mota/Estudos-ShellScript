@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cat $1 | grep "\S"
+cat $1 | egrep "\S"
