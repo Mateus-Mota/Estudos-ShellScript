@@ -5,7 +5,7 @@ if [ "$1" == "a" ]; then
 fi
 
 if [ "$1" == "b" ]; then
-	ls -l | grep "^[a-z].*\x" | cut -d ' ' -f 10
+	ls -l | grep "^...x..[-x]..[-x]" | cut -d ' ' -f 10
 fi
 
 if [ "$1" == "c" ]; then
