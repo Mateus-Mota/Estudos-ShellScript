@@ -48,6 +48,9 @@ cat $1 | grep "\S"
 
 ### Resolução
 ~~~bash
+#!/bin/bash
+
+read -p "Senha: " senha && echo $senha | egrep --color '*[0-9]*[A-Z]*[a-z]*|*[0-9]*[a-z]*[A-Z]*|*[A-Z]*[a-a]*[0-9]*|*[a-z]*[A-Z]*[0-9]*' && echo "SIM" || echo "NÃO"
 ~~~
 
 ## 4 - Escreva um script que valide um e-mail no formato username@dominio. Validar significa dizer se o número está no padrão ou não.
