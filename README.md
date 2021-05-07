@@ -22,7 +22,8 @@
 <h3> Lista 06 - Estruturas de Repetição: laços For :heavy_check_mark: </h3>
 <h3> Lista 07 - Estruturas Condicionais: if :heavy_check_mark: </h3>
 <h3> Lista 08 - Estruturas While e Case :heavy_check_mark: </h3>
-<h3> Lista 09 - Processamento de Texto :x: </h3>
+<h3> Lista 09 - Processamento de Texto (GREP e REGEX) :heavy_check_mark: </h3>
+<h3> Lista 10 - Processamento de Texto (SED e REGEX) :x: </h3>
 
 <h2> Módulos </h2>
 
