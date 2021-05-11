@@ -24,6 +24,7 @@
 <h3> Lista 08 - Estruturas While e Case :heavy_check_mark: </h3>
 <h3> Lista 09 - Processamento de Texto (GREP e REGEX) :heavy_check_mark: </h3>
 <h3> Lista 10 - Processamento de Texto (SED e REGEX) :x: </h3>
+<h3> Projeto da Disciplina - Modificar de Permissões e Atributos Avançados :x: </h3>
 
 <h2> Módulos </h2>
 
@@ -67,6 +68,6 @@ Atividades do repositório da disciplina :x:
 
 <h3 align="left">Módulo 11 - Arrays e Strings</h3>
 
-<h3 align="left">Módulo 12 - Mini Projeto 1</h3>
+<h3 align="left">Módulo 12 - Mini Projeto </h3>
 
-Projeto: :x:
+Projeto: https://github.com/Mateus-Mota/2020.2.Projeto.ShellScript
