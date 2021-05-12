@@ -6,6 +6,9 @@
 
 ### Resolução
 ~~~bash
+#!/bin/bash
+
+sed '/^[[:space:]]*$/d' $1
 ~~~
 
 ## 2 - Escreva um script que, baseado em opções de linha de comando:
