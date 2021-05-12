@@ -12,9 +12,9 @@ sed '/^[[:space:]]*$/d' $1
 ~~~
 
 ## 2 - Escreva um script que, baseado em opções de linha de comando:
-a - Remova todas as letras de um arquivo.
-b - Remova todos os dígitos de um arquivo.
-c - Substitua todos os caracteres que não são letras nem dígitos de um arquivo por <?>.
+### a - Remova todas as letras de um arquivo.
+### b - Remova todos os dígitos de um arquivo.
+### c - Substitua todos os caracteres que não são letras nem dígitos de um arquivo por <?>.
 
 ### Resolução
 ~~~bash
