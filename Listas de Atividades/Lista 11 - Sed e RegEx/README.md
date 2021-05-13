@@ -62,4 +62,7 @@ A saída deve ser:
 
 ### Resolução
 ~~~bash
+#!/bin/bash
+
+sed 's/../\(&\)/;s/.\{8\}/&-/' $1
 ~~~
