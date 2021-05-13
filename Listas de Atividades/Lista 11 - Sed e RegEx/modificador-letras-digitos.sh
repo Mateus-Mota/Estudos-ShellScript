@@ -11,5 +11,5 @@ if [ "$opcao" == "b" ]; then
 fi
 
 if [ "$opcao" == "c" ]; then
-	sed '!s/[[:alpha:]]|[[:digit:]]/<?>/g' $1
+	sed 's/[[:alpha:]]|[[:digit:]]/<?>/g' $1
 fi
