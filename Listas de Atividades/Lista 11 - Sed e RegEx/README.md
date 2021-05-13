@@ -24,6 +24,9 @@ sed '/^[[:space:]]*$/d' $1
 
 ### Resolução
 ~~~bash
+#!/bin/bash
+
+sed 's/[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]/CENSURADO/' $1
 ~~~
 
 ## 4 - Escreva um script que, dado uma lista de números de telefone no formato xxxxxxxxxxx, coloque cada telefone no formato (xx) x xxxx-xxxx. Exemplo:
