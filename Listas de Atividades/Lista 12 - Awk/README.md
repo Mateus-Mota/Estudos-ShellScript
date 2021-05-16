@@ -16,7 +16,6 @@ ddrwxr-xr-x 6 root root    4096 dez 26 06:14 apt
 ~~~
 
 ### Resolução
-
 ~~~bash
 ~~~
 
@@ -68,12 +67,21 @@ Nelson www.uol.com.br 300
 Vianna debian.org/9.7.0.iso 800555
 ~~~
 
+### Resolução
+~~~bash
+~~~
+
 ## 5.Considere uma lista de todos os IPs que acessaram uma determinada máquina via ssh.Pede-se que  seja  efetuada  uma  contagem  de  quantos  IPs  distintos  eram  internos  (não  roteáveis)  e quantos eram roteáveis.Lembre-se:
 
 ~~~bash
 10.0.0.0/8 Rede Privada RFC 1918
 172.16.0.0/12 Rede privada RFC 1918
 192.168.0.0/16 Rede Privada RFC 1918
+~~~
+
+### Resolução
+~~~bash
+~~~
 
 ## 6. Dado um arquivo com nomes e notas de alunos,  imprima a lista de alunos aprovados, i.e. com média maior ou igual a 70. Segue o formato do arquivo:
 
@@ -84,9 +92,21 @@ Joao das Neves Pereira Pádua e Talz 100 0 100
 Amanda Selfie 100 70 70
 ~~~
 
+### Resolução
+~~~bash
+~~~
+
 ## 7. Altere o script da questão anterior para que não imprima a lista de aprovados, mas um resumo com o número de aprovados e o número de reprovados
 
+### Resolução
+~~~bash
+~~~
+
 ## 8. Melhore o script da questão anterior para que além do número de aprovados e reprovados, seja exibido  um  histograma  das  médias,  isto  é,  o  número  de  médias  entre  0  e  9.9999,  o  número  de médias entre 10 e 1.9999, ...., o número de médias entre 8 e 9.99999 e onúmero de médias entre 9 e 10
+
+### Resolução
+~~~bash
+~~~
 
 ## 9. Escreva  um  script  que,  dado  um  relatório,  escrito  em  um  formato  qualquer,  filtre-o  exibindo todos os números de CPF encontrados, e apenas isso.Segue exemplo de arquiv
 
@@ -103,6 +123,10 @@ CEROLLYNA  DE  OLIVEIRA SILVIA 452.862.328-83  EDUCAÇÃO  FÍSICA
 NOTURNO  50% HELLYSIA  MARIA  MARIA DO  BAIRRO 445.445.868-60 
 GASTRONOMIA EAD 100% HYELEN DA SILVA DA SILVA 123.123.026-40 
 MEDICINA VETERINÁRIA MATUTINO 100% 417.842.842-10
+~~~
+
+### Resolução
+~~~bash
 ~~~
 
 ## 10. Uma empresa possui uma política de  criação de  nomes de usuários: dado o nome completo da pessoa,  usar  o  primeiro  nome  seguido  pela  primeira  letra  de  cada  sobrenome  (ou  conectivo  da dos  de).  Exemplo:  Thiago  Gouveia  da  Silva  ganha  o  nome  de  usuário  ThiagoGdS,  enquanto Josias  de  Pádua  Maranhão  Ayres  Junior,  ganha  o  nome  de  usuário  JosiasdPMAJ.  Foi  enviada uma lista contendo os dados dos funcionários da empresa para que você criasse os usuários. Sua tarefa é, dado a entrada, criar uma lista com os nomes de usuários que devem ser criados. Segue o Formato da lista:
@@ -128,4 +152,8 @@ Manequias dos Arais de Fortal
 45 Anos
 Padeiro e Confeiteiro, mas também faz tudo
 Belo Jardim, mas também Arraial do Cabo
+~~~
+
+### Resolução
+~~~bash
 ~~~
