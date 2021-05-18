@@ -35,6 +35,17 @@ Ranking | Meninos | Ranking     | Meninas
 
 ### Resolução
 ~~~bash
+#!/bin/bash
+
+cat nomes.txt | awk '{print$1 " " $2}' > meninos.txt
+
+cat nomes.txt | awk '{print$3 " " $4}' > meninas.txt
+
+cat meninos.txt
+
+echo " "
+
+cat meninas.txt
 ~~~
 
 ## 3.Considere  a  saída  do  comando  history.Deseja-se  fazer  uma  lista  de  todos  os  comandos  que foram executados. Nenhum comando deve aparecer mais de uma vez na lista.
@@ -69,6 +80,13 @@ Vianna debian.org/9.7.0.iso 800555
 
 ### Resolução
 ~~~bash
+#!/bin/bash
+
+cat downloads.txt | awk BEGIN{total=0}'/Nelson/''{total+=$3}END{print "Nelson Baixou" " " total;}'
+
+cat downloads.txt | awk '/Arr445/''{print "Arr445 Baixou" " " $3}'
+
+cat downloads.txt | awk '/Vianna/''{print "Vianna Baixou" " " $3}'
 ~~~
 
 ## 5.Considere uma lista de todos os IPs que acessaram uma determinada máquina via ssh.Pede-se que  seja  efetuada  uma  contagem  de  quantos  IPs  distintos  eram  internos  (não  roteáveis)  e quantos eram roteáveis.Lembre-se:
@@ -94,6 +112,13 @@ Amanda Selfie 100 70 70
 
 ### Resolução
 ~~~bash
+#!/bin/bash
+
+echo " ALUNOS APROVADOS: "
+
+cat notas.txt | awk BEGIN{total=0}'/Nelson/''{total+=$5+$6+$7;}END{if (total/3 >= 70) print "Nelson Antunes de Coimbra";}'
+
+cat notas.txt | awk BEGIN{total=0}'/José/''{total+=$3+$4+$5;}END{if (total/3 >= 70) print "José Edyson";}'
 ~~~
 
 ## 7. Altere o script da questão anterior para que não imprima a lista de aprovados, mas um resumo com o número de aprovados e o número de reprovados
