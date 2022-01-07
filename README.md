@@ -46,23 +46,23 @@ Atividades do repositório da disciplina :heavy_check_mark:
 
 <h3 align="left">Módulo 05 - Redirecionadores e Conectores</h3>
 
-Atividades do repositório da disciplina :x:
+Atividades do repositório da disciplina :heavy_check_mark:
 
 <h3 align="left">Módulo 06 - Aritmetica no Shell</h3>
 
-Atividades do repositório da disciplina :x:
+Atividades do repositório da disciplina :heavy_check_mark:
 
 <h3 align="left">Módulo 07 - Teste de Condições</h3>
 
-Atividades do repositório da disciplina :x:
+Atividades do repositório da disciplina :heavy_check_mark:
 
 <h3 align="left">Módulo 08 - Estruturas Condicionais</h3>
 
-Atividades do repositório da disciplina :x:
+Atividades do repositório da disciplina :heavy_check_mark:
 
 <h3 align="left">Módulo 09 - Estruturas de Repetição</h3>
 
-Atividades do repositório da disciplina :x:
+Atividades do repositório da disciplina :heavy_check_mark:
 
 <h3 align="left">Módulo 10 - Funções e Modularização</h3>
 
