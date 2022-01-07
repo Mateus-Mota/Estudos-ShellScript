@@ -24,7 +24,7 @@
 <h3> Lista 08 - Estruturas While e Case :heavy_check_mark: </h3>
 <h3> Lista 09 - Processamento de Texto (GREP e REGEX) :heavy_check_mark: </h3>
 <h3> Lista 10 - Processamento de Texto (SED e REGEX) :heavy_check_mark: </h3>
-<h3> Projeto da Disciplina - Modificar de Permissões e Atributos Avançados :heavy_check_mark: </h3>
+<h3> Projeto da Disciplina(Grupo 05) - Modificar de Permissões e Atributos Avançados :heavy_check_mark: </h3>
 
 <h2> Módulos </h2>
 
