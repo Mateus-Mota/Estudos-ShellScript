@@ -1,4 +1,4 @@
-<h1 align="center">ExerciciosShellScript</h1>
+<h1 align="center">EstudosShellScript</h1>
 <p align="center">
  <a href="#Objetivo">:dart:Objetivo</a> •
  <a href="#Links">:link:Links</a> • 
