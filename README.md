@@ -10,6 +10,8 @@
 
 <h2>:link: Links</h2>
   <a href=https://github.com/ifpb/ShellScript> Repositório da Disciplina :penguin:</a>
+  
+  Projeto: https://github.com/Mateus-Mota/2020.2.Projeto.ShellScript
 
 <h2>:white_check_mark: Checklist</h2> 
 
@@ -19,12 +21,17 @@
 <h3> Lista 02 - Primeiros Passos com o Bash :heavy_check_mark: </h3>
 <h3> Lista 03 - Substituição Aritmética :heavy_check_mark: </h3>
 <h3> Lista 04 - Redirecionadores :heavy_check_mark: </h3>
+<h3> Lista 05 - Operadores Condicionais: & e | :heavy_check_mark: </h3>
 <h3> Lista 06 - Estruturas de Repetição: laços For :heavy_check_mark: </h3>
-<h3> Lista 07 - Estruturas Condicionais: if :heavy_check_mark: </h3>
+<h3> Lista 07 - Operadores Condicionais: if :heavy_check_mark: </h3>
 <h3> Lista 08 - Estruturas While e Case :heavy_check_mark: </h3>
-<h3> Lista 09 - Processamento de Texto (GREP e REGEX) :heavy_check_mark: </h3>
-<h3> Lista 10 - Processamento de Texto (SED e REGEX) :heavy_check_mark: </h3>
-<h3> Projeto da Disciplina(Grupo 05) - Modificar de Permissões e Atributos Avançados :heavy_check_mark: </h3>
+<h3> Lista 09 - Processamento de Texto :heavy_check_mark: </h3>
+<h3> Lista 10 - Processamento de Texto (GREP e REGEX) :heavy_check_mark: </h3>
+<h3> Lista 11 - Processamento de Texto (SED e REGEX) :heavy_check_mark: </h3>
+<h3> Lista 12 - Awk </h3>
+<h3> Lista 13 - Modularização </h3>
+<h3> Projeto da Disciplina(Grupo 05) - Modificador de Permissões e Atributos Avançados :heavy_check_mark: </h3>
+
 
 <h2> Módulos </h2>
 
@@ -69,5 +76,3 @@ Atividades do repositório da disciplina :heavy_check_mark:
 <h3 align="left">Módulo 11 - Arrays e Strings</h3>
 
 <h3 align="left">Módulo 12 - Mini Projeto </h3>
-
-Projeto: https://github.com/Mateus-Mota/2020.2.Projeto.ShellScript
