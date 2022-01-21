@@ -10,7 +10,11 @@ d=$a$b$c
 echo ${d}
 ~~~
 
+
 ### Explique a execução de cada linha do script
+
+<br>
+<br>
 
 ## Exercício 02 - Escreva um script shell que leia 3 nomes e 3 telefones e imprima-os na tela.
 
@@ -48,6 +52,9 @@ echo "Fone-1 = ${fone1}, Fone-2 = ${fone2}, Fone-3 = ${fone3}"
 echo "Nome-1 = ${nome1}, Nome-2 = ${nome2}, Nome-3 = ${nome3}"
 ~~~
 
+<br>
+<br>
+
 ## Exercício 03 - Considere o script teste.sh descrito abaixo.
 
 ~~~bash
@@ -62,6 +69,9 @@ echo $13
 ### O que é impresso na tela após a execução do script teste.sh da seguinte forma:
 ### ./teste.sh a1 a2 a3 a4 "a5 a5" a6 a7 a8 'a9 a9' a10 a11 a12 a13</p>
 ### Como corrigir o script para que os argumentos de linha de comando 12 e 13 sejam exibidos corretamente?
+
+<br>
+<br>
 
 ## Exercício 04 - Considere o script teste.sh descrito abaixo.
 
